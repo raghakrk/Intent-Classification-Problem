@@ -5,5 +5,4 @@ pandas
 theano
 scikit-learn
 matplotlib
-re
 nltk
